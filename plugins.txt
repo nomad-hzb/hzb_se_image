@@ -1,2 +1,5 @@
-nomad-measurements
 nomad-material-processing
+git+https://github.com/nomad-hzb/nomad-baseclasses.git
+git+https://github.com/nomad-hzb/nomad-hysprint.git
+git+https://github.com/nomad-hzb/hzb-combinatorial-libraries-plugin.git
+git+https://github.com/nomad-hzb/nomad-chemical-energy.git
